@@ -1,0 +1,38 @@
+Program 7 by Nathan Jaggers.
+
+After trying to copy 8 chars from str19 to str20, str20 contains 
+
+     str20: Assembly is fun
+
+After trying to copy 400 chars from str16 to str15, str15 contains 
+
+     str15: Who said I'll be back?
+
+Before copying to str3, str3 contains
+
+     str3: words,dwords
+
+After trying to copy 5 chars from str4 to str3, str3 contains 
+
+     str3: bytes,dwords
+
+After trying to copy 8 chars from str5 to str3, str3 contains 
+
+     str3: 1234567
+
+After trying to copy 400 chars from str6 to str3, str3 contains 
+
+     str3: ABC
+
+After appending str8 to str7, str7 contains 
+
+     str7: hello Pat
+
+Before removing 5 characters from str12, str12 contains 
+
+     str12: Comments help help make your code understandable.
+
+After removing 5 characters from str12, str12 contains 
+
+     str12: Comments help make your code understandable.
+
